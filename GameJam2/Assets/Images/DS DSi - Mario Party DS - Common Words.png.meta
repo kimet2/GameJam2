@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 92312a1a3164d99428f2582de20639e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3013248145173796647
+    second: DS DSi - Mario Party DS - Common Words_0
+  - first:
+      213: 2515292810996236530
+    second: DS DSi - Mario Party DS - Common Words_1
+  - first:
+      213: -6895578593619254256
+    second: DS DSi - Mario Party DS - Common Words_2
+  - first:
+      213: -6742377511125109513
+    second: DS DSi - Mario Party DS - Common Words_3
+  - first:
+      213: 1165201436654315050
+    second: DS DSi - Mario Party DS - Common Words_4
+  - first:
+      213: 8779874355512004822
+    second: DS DSi - Mario Party DS - Common Words_5
+  - first:
+      213: -566884492096287907
+    second: DS DSi - Mario Party DS - Common Words_6
+  - first:
+      213: -1177428378320859904
+    second: DS DSi - Mario Party DS - Common Words_7
+  - first:
+      213: -6975685068972330651
+    second: DS DSi - Mario Party DS - Common Words_8
+  - first:
+      213: -1328284139592277109
+    second: DS DSi - Mario Party DS - Common Words_9
+  - first:
+      213: 1444991763007752692
+    second: DS DSi - Mario Party DS - Common Words_10
+  - first:
+      213: -4337161248959609675
+    second: DS DSi - Mario Party DS - Common Words_11
+  - first:
+      213: -8266081336468423647
+    second: DS DSi - Mario Party DS - Common Words_12
+  - first:
+      213: -1902542234869767860
+    second: DS DSi - Mario Party DS - Common Words_13
+  - first:
+      213: -1599903557526765501
+    second: DS DSi - Mario Party DS - Common Words_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Mario Party DS - Common Words_0
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 242
+        width: 75
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8afced6cace26d0800000000000000
+      internalID: -3013248145173796647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario Party DS - Common Words_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 216
+        width: 92
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f046892c7d18e220800000000000000
+      internalID: 2515292810996236530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario Party DS - Common Words_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 208
+        width: 65
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014698eadcbfd40a0800000000000000
+      internalID: -6895578593619254256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario Party DS - Common Words_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 172
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f43ec350634e62a0800000000000000
+      internalID: -6742377511125109513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario Party DS - Common Words_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 179
+        width: 75
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a262e8b7880ab2010800000000000000
+      internalID: 1165201436654315050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario Party DS - Common Words_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 145
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0dad4653168d970800000000000000
+      internalID: 8779874355512004822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario Party DS - Common Words_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 143
+        width: 74
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b4ce3de850228f0800000000000000
+      internalID: -566884492096287907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario Party DS - Common Words_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 103
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d88b1d02fe8afe0800000000000000
+      internalID: -1177428378320859904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario Party DS - Common Words_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 108
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56178e67363613f90800000000000000
+      internalID: -6975685068972330651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario Party DS - Common Words_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 71
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8321d2dc9cf09de0800000000000000
+      internalID: -1328284139592277109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario Party DS - Common Words_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 72
+        width: 75
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f941714a54ad0410800000000000000
+      internalID: 1444991763007752692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario Party DS - Common Words_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 37
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b44c26c2de4fc3c0800000000000000
+      internalID: -4337161248959609675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario Party DS - Common Words_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 37
+        width: 107
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c305fe1daf84d80800000000000000
+      internalID: -8266081336468423647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario Party DS - Common Words_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 37
+        width: 91
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41e860eaefc895e0800000000000000
+      internalID: -1902542234869767860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario Party DS - Common Words_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 9
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340cbbae0300cc9e0800000000000000
+      internalID: -1599903557526765501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
