@@ -1,0 +1,1850 @@
+fileFormatVersion: 2
+guid: 5c7b38adb0cadec4aa888c831963f99b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2023948978369492525
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_0
+  - first:
+      213: 2393438154047049294
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_1
+  - first:
+      213: 5108513766091461489
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_2
+  - first:
+      213: 2688540112835861969
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_3
+  - first:
+      213: -4781024514808635894
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_4
+  - first:
+      213: -1054815125285546094
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_5
+  - first:
+      213: -3177253951074136470
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_6
+  - first:
+      213: 1425347898832685822
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_7
+  - first:
+      213: 8763345234361665424
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_8
+  - first:
+      213: -5553798921922729276
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_9
+  - first:
+      213: -2101544987200482675
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_10
+  - first:
+      213: 2538606831025250637
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_11
+  - first:
+      213: -544734650699542578
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_12
+  - first:
+      213: 2716551231131743104
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_13
+  - first:
+      213: -714932786294298988
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_14
+  - first:
+      213: -3595966586562714773
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_15
+  - first:
+      213: -3165270383632563595
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_16
+  - first:
+      213: 614382206130541528
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_17
+  - first:
+      213: -6696189115198846469
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_18
+  - first:
+      213: 3772119701920928279
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_19
+  - first:
+      213: -3176290697700934887
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_20
+  - first:
+      213: -8174048957481429515
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_21
+  - first:
+      213: 8696183321954047165
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_22
+  - first:
+      213: -1351113897973446037
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_23
+  - first:
+      213: 7217462033480671433
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_24
+  - first:
+      213: 908625967221940314
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_25
+  - first:
+      213: -434155322905153056
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_26
+  - first:
+      213: -6096385367362064139
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_27
+  - first:
+      213: -6669606450541857096
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_28
+  - first:
+      213: 2140309626563777003
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_29
+  - first:
+      213: 8490030602571069862
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_30
+  - first:
+      213: -8231291860989585341
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_31
+  - first:
+      213: -5835810587657898319
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_32
+  - first:
+      213: 1602752446201992079
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_33
+  - first:
+      213: -2626604652021567578
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_34
+  - first:
+      213: 2075099122467931386
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_35
+  - first:
+      213: -1182407745769014467
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_36
+  - first:
+      213: -9059202266635828576
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_37
+  - first:
+      213: 6847555009611734415
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_38
+  - first:
+      213: -1239142216835202593
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_39
+  - first:
+      213: 7130102352163571250
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_40
+  - first:
+      213: 7638590466976981590
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_41
+  - first:
+      213: -7578911057065006787
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_42
+  - first:
+      213: -6220770067970180998
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_43
+  - first:
+      213: 874212065652153891
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_44
+  - first:
+      213: -6396710493993286137
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_45
+  - first:
+      213: 717802876042739688
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_46
+  - first:
+      213: -7017012634876267460
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_47
+  - first:
+      213: 3133757885225335935
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_48
+  - first:
+      213: -6314083241489600175
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_49
+  - first:
+      213: 7553944729993434531
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_50
+  - first:
+      213: 8753145288407609984
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_51
+  - first:
+      213: -2856586771189156267
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_52
+  - first:
+      213: 2515756871501360807
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_53
+  - first:
+      213: -8030448194270131599
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_54
+  - first:
+      213: -5086155771601295090
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_55
+  - first:
+      213: -7949580039690009034
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_56
+  - first:
+      213: -3206261994762786493
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_57
+  - first:
+      213: -502888489043588244
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_58
+  - first:
+      213: -4527024960075285983
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_59
+  - first:
+      213: -7243994970548422697
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_60
+  - first:
+      213: -8957523330212923416
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_61
+  - first:
+      213: -7058631563770295986
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_62
+  - first:
+      213: 4586482359459551854
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_63
+  - first:
+      213: 3477473113969976826
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_64
+  - first:
+      213: -6854985876646074467
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_65
+  - first:
+      213: 2396016744055891444
+    second: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+      1_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 184
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d985c4a02d79e3e0800000000000000
+      internalID: -2023948978369492525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 184
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e47d3f153373120800000000000000
+      internalID: 2393438154047049294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 184
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1731316443615e640800000000000000
+      internalID: 5108513766091461489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 184
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd58f5fcfc9f4520800000000000000
+      internalID: 2688540112835861969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 184
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e9564e88366adb0800000000000000
+      internalID: -4781024514808635894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 184
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29755a17b3b8c51f0800000000000000
+      internalID: -1054815125285546094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 184
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e05058d5028e3d0800000000000000
+      internalID: -3177253951074136470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 184
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa8547bc5ad7c310800000000000000
+      internalID: 1425347898832685822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 184
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0974d3a7f08ad9970800000000000000
+      internalID: 8763345234361665424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 184
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca29d84e41fce2b0800000000000000
+      internalID: -5553798921922729276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 184
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d829966f7ffc5d2e0800000000000000
+      internalID: -2101544987200482675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 184
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41e3a37671fa3320800000000000000
+      internalID: 2538606831025250637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 184
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf0538a8b6b078f0800000000000000
+      internalID: -544734650699542578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 154
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083f1c9a3f023b520800000000000000
+      internalID: 2716551231131743104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 154
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496e5a23b6c0416f0800000000000000
+      internalID: -714932786294298988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 154
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6361c7117f881ec0800000000000000
+      internalID: -3595966586562714773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 154
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572448d3b53b214d0800000000000000
+      internalID: -3165270383632563595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 138
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d35bb08c59b68800800000000000000
+      internalID: 614382206130541528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 138
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf94cb74a7b5213a0800000000000000
+      internalID: -6696189115198846469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 138
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712df3322e2495430800000000000000
+      internalID: 3772119701920928279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 138
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b782c607c8be3d0800000000000000
+      internalID: -3176290697700934887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 138
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5daa8f7c1ff8e80800000000000000
+      internalID: -8174048957481429515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_22
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 138
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db45fbe28ac0fa870800000000000000
+      internalID: 8696183321954047165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_23
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 138
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a033c7111ef3de0800000000000000
+      internalID: -1351113897973446037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_24
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 138
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0eb7dca73992460800000000000000
+      internalID: 7217462033480671433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 138
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50a5f9c0861c9c00800000000000000
+      internalID: 908625967221940314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 138
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1b4e8b80299f9f0800000000000000
+      internalID: -434155322905153056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 138
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0be74fec9456ba0800000000000000
+      internalID: -6096385367362064139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b67cc3354cc073a0800000000000000
+      internalID: -6669606450541857096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 138
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1dea8f348e3bd10800000000000000
+      internalID: 2140309626563777003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 138
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9b176d9d5a2d570800000000000000
+      internalID: 8490030602571069862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_31
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 138
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348d627e9a394cd80800000000000000
+      internalID: -8231291860989585341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_32
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 138
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6ff22a039030fa0800000000000000
+      internalID: -5835810587657898319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8312caabde1e3610800000000000000
+      internalID: 1602752446201992079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 108
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afadde3cfc6c8bd0800000000000000
+      internalID: -2626604652021567578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_35
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 108
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af40d6458ab3ccc10800000000000000
+      internalID: 2075099122467931386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 108
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b74cd7b6e379fe0800000000000000
+      internalID: -1182407745769014467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 74
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a202c4498f374280800000000000000
+      internalID: -9059202266635828576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 74
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d9ad75007670f50800000000000000
+      internalID: 6847555009611734415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 74
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1095318beadcee0800000000000000
+      internalID: -1239142216835202593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_40
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 74
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23603e8ff4633f260800000000000000
+      internalID: 7130102352163571250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 58
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65229d80f89b10a60800000000000000
+      internalID: 7638590466976981590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 58
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d392c536c8c42d690800000000000000
+      internalID: -7578911057065006787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 58
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78314d05926ba9a0800000000000000
+      internalID: -6220770067970180998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_44
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 58
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e9e8fed33d12c00800000000000000
+      internalID: 874212065652153891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_45
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 58
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706448a62b15a37a0800000000000000
+      internalID: -6396710493993286137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_46
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 58
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eff745a9e526f900800000000000000
+      internalID: 717802876042739688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_47
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 58
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34b5c1bf209e9e90800000000000000
+      internalID: -7017012634876267460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_48
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 58
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c7fe871385d7b20800000000000000
+      internalID: 3133757885225335935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_49
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 58
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151f3cccebedf58a0800000000000000
+      internalID: -6314083241489600175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 52
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5513c95b005d860800000000000000
+      internalID: 7553944729993434531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_51
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 52
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0827bee734b697970800000000000000
+      internalID: 8753145288407609984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556b039677d5b58d0800000000000000
+      internalID: -2856586771189156267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_53
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 52
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae261bab83c9e220800000000000000
+      internalID: 2515756871501360807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a0a591aed1e8090800000000000000
+      internalID: -8030448194270131599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_55
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 40
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09e669f5485a69b0800000000000000
+      internalID: -5086155771601295090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636cdb4921b6da190800000000000000
+      internalID: -7949580039690009034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_57
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349245904b11183d0800000000000000
+      internalID: -3206261994762786493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_58
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b8ce865916509f0800000000000000
+      internalID: -502888489043588244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_59
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 40
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ab265b8c6cc21c0800000000000000
+      internalID: -4527024960075285983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_60
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 40
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7beb164f8287b90800000000000000
+      internalID: -7243994970548422697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_61
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 40
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7726b7dfb70b380800000000000000
+      internalID: -8957523330212923416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 40
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e498c11bdf3ba0e90800000000000000
+      internalID: -7058631563770295986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 138
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a9e2cd76576af30800000000000000
+      internalID: 4586482359459551854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 27
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5e62a6f57724030800000000000000
+      internalID: 3477473113969976826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_65
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 27
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97e03a1aa23ed0a0800000000000000
+      internalID: -6854985876646074467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Koopa Clown Car Super Mario Land 2-Style
+        1_66
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 27
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5e659b88c504120800000000000000
+      internalID: 2396016744055891444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
