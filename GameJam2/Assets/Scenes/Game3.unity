@@ -1649,7 +1649,7 @@ GameObject:
   - component: {fileID: 1690591980}
   - component: {fileID: 1690591979}
   m_Layer: 0
-  m_Name: Player-2
+  m_Name: PlayerTwo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1682,7 +1682,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b344f863c2e99a845838e528a43d8e0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerSpeed: 5
 --- !u!50 &1690591980
 Rigidbody2D:
   serializedVersion: 4
@@ -1907,7 +1906,7 @@ GameObject:
   - component: {fileID: 1991416016}
   - component: {fileID: 1991416018}
   m_Layer: 0
-  m_Name: Player-1
+  m_Name: PlayerOne
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1961,7 +1960,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b344f863c2e99a845838e528a43d8e0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerSpeed: 5
 --- !u!1 &2030887525
 GameObject:
   m_ObjectHideFlags: 0
