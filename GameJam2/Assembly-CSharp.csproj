@@ -37,10 +37,11 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Fonts\Script\scriptTexttest.cs" />
-     <Compile Include="Assets\Scripts\First Game Script\CameraMovement.cs" />
-     <Compile Include="Assets\Scripts\First Game Script\LoopingBackground.cs" />
-     <Compile Include="Assets\Scripts\First Game Script\Player.cs" />
+     <Compile Include="Assets\Scripts\Third Game Script\CameraMovement.cs" />
+     <Compile Include="Assets\Scripts\Third Game Script\LoopingBackground.cs" />
+     <Compile Include="Assets\Scripts\Third Game Script\Player.cs" />
      <Compile Include="Assets\Scripts\MenuEvents.cs" />
+     <Compile Include="Assets\Scripts\Second Game\timer.cs" />
      <None Include="Assets\Fonts\Documentation\JazzCreateAltKeys_BubbleFont.txt" />
      <None Include="Assets\Fonts\Documentation\JazzCreateBubble_VersionHistory_1.1.txt" />
     <Reference Include="UnityEngine">
