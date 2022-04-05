@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: cc7e892e0578b15408a92afbb1f18f61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7563066855453665928
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_0
+  - first:
+      213: 4146387812382869853
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_1
+  - first:
+      213: 1023017600593655844
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_2
+  - first:
+      213: 2012418788656797147
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_3
+  - first:
+      213: -114129385210572791
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_4
+  - first:
+      213: -2549374275893750090
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_5
+  - first:
+      213: 6985552860659907813
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_6
+  - first:
+      213: -5134269083837912815
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_7
+  - first:
+      213: -513293568259464353
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_8
+  - first:
+      213: 2011697140117981831
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_9
+  - first:
+      213: 3983142550022569849
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_10
+  - first:
+      213: -5352112914409405881
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_11
+  - first:
+      213: 4662987401074547370
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_12
+  - first:
+      213: -8688812348723524846
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_13
+  - first:
+      213: 5135431608543596990
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_14
+  - first:
+      213: -8103554217676282149
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_15
+  - first:
+      213: -575448550485669890
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_16
+  - first:
+      213: 1017920594092361341
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_17
+  - first:
+      213: -4950456366018630520
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_18
+  - first:
+      213: -8536426844060941553
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_19
+  - first:
+      213: 3872855173157444566
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_20
+  - first:
+      213: 1886615935412894026
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_21
+  - first:
+      213: -7478862391821337339
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_22
+  - first:
+      213: 4923277014139753961
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_23
+  - first:
+      213: -6720228705434923403
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_24
+  - first:
+      213: -7105297871962109902
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_25
+  - first:
+      213: -3680963427929257910
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_26
+  - first:
+      213: 6765538882669051155
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_27
+  - first:
+      213: -3310078679080876685
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_28
+  - first:
+      213: 2339689480908777398
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_29
+  - first:
+      213: 2212098106981748348
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_30
+  - first:
+      213: 3327816258860448113
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_31
+  - first:
+      213: -8315283463292748134
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_32
+  - first:
+      213: -8140616484459850941
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_33
+  - first:
+      213: 177121323928236836
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_34
+  - first:
+      213: 426996500435060326
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_35
+  - first:
+      213: 7032981736348923189
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_36
+  - first:
+      213: 8459796603387841485
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_37
+  - first:
+      213: -5503904521491984275
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_38
+  - first:
+      213: -7018741959699521477
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_39
+  - first:
+      213: -1937033528635544810
+    second: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875572c04c69a0790800000000000000
+      internalID: -7563066855453665928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 36
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5907123fbdea8930800000000000000
+      internalID: 4146387812382869853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4287b5a661d723e00800000000000000
+      internalID: 1023017600593655844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5d53dd93c8deb10800000000000000
+      internalID: 2012418788656797147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9001718cde78a6ef0800000000000000
+      internalID: -114129385210572791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b695dd6a9dce9cd0800000000000000
+      internalID: -2549374275893750090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecf853d05ba1f060800000000000000
+      internalID: 6985552860659907813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 45
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119229488796fb8b0800000000000000
+      internalID: -5134269083837912815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 45
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53e66e183a60e8f0800000000000000
+      internalID: -513293568259464353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 18
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ac668f3ebfaeb10800000000000000
+      internalID: 2011697140117981831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 18
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fb6dfab07f64730800000000000000
+      internalID: 3983142550022569849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 27
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742c8da39a979b5b0800000000000000
+      internalID: -5352112914409405881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 27
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa9b21f55246b040800000000000000
+      internalID: 4662987401074547370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 27
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b8e4244332b6780800000000000000
+      internalID: -8688812348723524846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 27
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1dd8bd6d7b44740800000000000000
+      internalID: 5135431608543596990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 27
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6694d9f546a8f80800000000000000
+      internalID: -8103554217676282149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 26
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7c9c997989308f0800000000000000
+      internalID: -575448550485669890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 27
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d760e6c1361602e00800000000000000
+      internalID: 1017920594092361341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 27
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c636be9227c4bb0800000000000000
+      internalID: -4950456366018630520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 27
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0383a46305888980800000000000000
+      internalID: -8536426844060941553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 27
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db559eb2452fb530800000000000000
+      internalID: 3872855173157444566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 27
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4970e1923b9e2a10800000000000000
+      internalID: 1886615935412894026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50df573874eb53890800000000000000
+      internalID: -7478862391821337339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e555a61c5ef25440800000000000000
+      internalID: 4923277014139753961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e0b230993fcb2a0800000000000000
+      internalID: -6720228705434923403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 10
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2380c5e1b39e46d90800000000000000
+      internalID: -7105297871962109902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_26
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 8
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48821fc3479aecc0800000000000000
+      internalID: -3680963427929257910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31df497b4c504ed50800000000000000
+      internalID: 6765538882669051155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 10
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3754aca9afc3012d0800000000000000
+      internalID: -3310078679080876685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 10
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7294acf2f387020800000000000000
+      internalID: 2339689480908777398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e06f21283f2be10800000000000000
+      internalID: 2212098106981748348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17975238147ce2e20800000000000000
+      internalID: 3327816258860448113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e71c31fbd2a9c80800000000000000
+      internalID: -8315283463292748134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_33
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343d41f2078b60f80800000000000000
+      internalID: -8140616484459850941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_34
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423b3ead7e2457200800000000000000
+      internalID: 177121323928236836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66644c80e0ffce500800000000000000
+      internalID: 426996500435060326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53533ea70ab2a9160800000000000000
+      internalID: 7032981736348923189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb0df8503c376570800000000000000
+      internalID: 8459796603387841485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_38
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60ddc6aff33e93b0800000000000000
+      internalID: -5503904521491984275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_39
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b302bf1ef5b689e90800000000000000
+      internalID: -7018741959699521477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Fuzzy Super Mario Bros 3 NES-Style_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b28afb4464e15e0800000000000000
+      internalID: -1937033528635544810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
