@@ -48,6 +48,9 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Fonts\Script\scriptTexttest.cs" />
+     <Compile Include="Assets\Scripts\First Game Script\CameraMovement.cs" />
+     <Compile Include="Assets\Scripts\First Game Script\LoopingBackground.cs" />
+     <Compile Include="Assets\Scripts\First Game Script\Player.cs" />
      <Compile Include="Assets\Scripts\MenuEvents.cs" />
      <None Include="Assets\Fonts\Documentation\JazzCreateAltKeys_BubbleFont.txt" />
      <None Include="Assets\Fonts\Documentation\JazzCreateBubble_VersionHistory_1.1.txt" />
