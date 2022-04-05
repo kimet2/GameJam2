@@ -146,6 +146,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -151.5
       objectReference: {fileID: 0}
+    - target: {fileID: 7192616533951388706, guid: 050a4583ebf8055419f7d9c444962c4e, type: 3}
+      propertyPath: m_Name
+      value: Menu
+      objectReference: {fileID: 0}
     - target: {fileID: 7192616533951388707, guid: 050a4583ebf8055419f7d9c444962c4e, type: 3}
       propertyPath: m_SizeDelta.x
       value: 155
@@ -162,13 +166,37 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -151.5
       objectReference: {fileID: 0}
+    - target: {fileID: 7192616533951388764, guid: 050a4583ebf8055419f7d9c444962c4e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7192616533951388764, guid: 050a4583ebf8055419f7d9c444962c4e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7192616533951388764, guid: 050a4583ebf8055419f7d9c444962c4e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 164354463}
+    - target: {fileID: 7192616533951388764, guid: 050a4583ebf8055419f7d9c444962c4e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7192616534256136509, guid: 050a4583ebf8055419f7d9c444962c4e, type: 3}
+      propertyPath: m_Text
+      value: PLAY AGAIN
+      objectReference: {fileID: 0}
     - target: {fileID: 7192616534256136509, guid: 050a4583ebf8055419f7d9c444962c4e, type: 3}
       propertyPath: m_FontData.m_MinSize
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7192616534256136509, guid: 050a4583ebf8055419f7d9c444962c4e, type: 3}
       propertyPath: m_FontData.m_FontSize
-      value: 24
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 7192616534612457136, guid: 050a4583ebf8055419f7d9c444962c4e, type: 3}
+      propertyPath: m_Text
+      value: MENU
       objectReference: {fileID: 0}
     - target: {fileID: 7192616534612457136, guid: 050a4583ebf8055419f7d9c444962c4e, type: 3}
       propertyPath: m_FontData.m_MinSize
@@ -176,7 +204,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7192616534612457136, guid: 050a4583ebf8055419f7d9c444962c4e, type: 3}
       propertyPath: m_FontData.m_FontSize
-      value: 30
+      value: 35
       objectReference: {fileID: 0}
     - target: {fileID: 7192616534727310048, guid: 050a4583ebf8055419f7d9c444962c4e, type: 3}
       propertyPath: m_FontData.m_MinSize
@@ -290,6 +318,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 7192616535132929204, guid: 050a4583ebf8055419f7d9c444962c4e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -47
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 050a4583ebf8055419f7d9c444962c4e, type: 3}
 --- !u!1 &79588576
@@ -374,6 +406,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &164354463 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7192616534887160649, guid: 050a4583ebf8055419f7d9c444962c4e, type: 3}
+  m_PrefabInstance: {fileID: 54938389}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &283042410
 GameObject:
   m_ObjectHideFlags: 0
