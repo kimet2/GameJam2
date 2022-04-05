@@ -1,9 +1,13 @@
 sceneSetups:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 - path: Assets/Scenes/Game3.unity
 =======
 - path: Assets/Scenes/Player1Win.unity
 >>>>>>> c76fc636e6386aae5a54775f58383902c31ec85d
+=======
+- path: Assets/Scenes/Main Menu.unity
+>>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1
   isSubScene: 0
