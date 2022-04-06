@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: d089099649c06e34d84ff82a65552802
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3049199765224196631
+    second: DS DSi - Sonic Rush - Spindash Effect_0
+  - first:
+      213: 6612082325366321922
+    second: DS DSi - Sonic Rush - Spindash Effect_1
+  - first:
+      213: -1025512691297096589
+    second: DS DSi - Sonic Rush - Spindash Effect_2
+  - first:
+      213: -3513690195965196687
+    second: DS DSi - Sonic Rush - Spindash Effect_3
+  - first:
+      213: -2695047535103187552
+    second: DS DSi - Sonic Rush - Spindash Effect_4
+  - first:
+      213: -2788809896416243493
+    second: DS DSi - Sonic Rush - Spindash Effect_5
+  - first:
+      213: 8475967689355361421
+    second: DS DSi - Sonic Rush - Spindash Effect_6
+  - first:
+      213: 7987852356611755219
+    second: DS DSi - Sonic Rush - Spindash Effect_7
+  - first:
+      213: 543961322512041374
+    second: DS DSi - Sonic Rush - Spindash Effect_8
+  - first:
+      213: -5563684603040599605
+    second: DS DSi - Sonic Rush - Spindash Effect_9
+  - first:
+      213: -2645897720026725882
+    second: DS DSi - Sonic Rush - Spindash Effect_10
+  - first:
+      213: -4647640773776456009
+    second: DS DSi - Sonic Rush - Spindash Effect_11
+  - first:
+      213: 4345474502647308213
+    second: DS DSi - Sonic Rush - Spindash Effect_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Sonic Rush - Spindash Effect_0
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 304
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e57b9808f01fa5d0800000000000000
+      internalID: -3049199765224196631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Sonic Rush - Spindash Effect_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 304
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2033915b7d5d2cb50800000000000000
+      internalID: 6612082325366321922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Sonic Rush - Spindash Effect_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 304
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ce49204a5a4c1f0800000000000000
+      internalID: -1025512691297096589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Sonic Rush - Spindash Effect_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 304
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176c8b2126ddc3fc0800000000000000
+      internalID: -3513690195965196687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Sonic Rush - Spindash Effect_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 304
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5e169bb84499ad0800000000000000
+      internalID: -2695047535103187552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Sonic Rush - Spindash Effect_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0140acc282c49d0800000000000000
+      internalID: -2788809896416243493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Sonic Rush - Spindash Effect_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 155
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cf6b3b4bfa0a570800000000000000
+      internalID: 8475967689355361421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Sonic Rush - Spindash Effect_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 154
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc4c1a956d8ade60800000000000000
+      internalID: 7987852356611755219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Sonic Rush - Spindash Effect_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 154
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95c1e7d0f98c8700800000000000000
+      internalID: 543961322512041374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Sonic Rush - Spindash Effect_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 158
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc17479c452d9c2b0800000000000000
+      internalID: -5563684603040599605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Sonic Rush - Spindash Effect_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 154
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6028acdca02e74bd0800000000000000
+      internalID: -2645897720026725882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Sonic Rush - Spindash Effect_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 153
+        width: 65
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6ce6b2753408fb0800000000000000
+      internalID: -4647640773776456009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Sonic Rush - Spindash Effect_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 160
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf5fce690a3e4c30800000000000000
+      internalID: 4345474502647308213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
