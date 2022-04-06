@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 6aa90f1e34247cc4faac2f8b3855818c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 22809925784408391
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_0
+  - first:
+      213: -8703686001413812612
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_1
+  - first:
+      213: 1200959415065755261
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_2
+  - first:
+      213: -2018220001769515756
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_3
+  - first:
+      213: 4482535080141671366
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_4
+  - first:
+      213: -4053345621216239184
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_5
+  - first:
+      213: -3797572633199122918
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_6
+  - first:
+      213: 1523843090003633767
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_7
+  - first:
+      213: -6657027135594309488
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_8
+  - first:
+      213: -2596535116867167572
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_9
+  - first:
+      213: 4301529853814533526
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_10
+  - first:
+      213: -6961002608459153935
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_11
+  - first:
+      213: -3076303065022352649
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_12
+  - first:
+      213: 9018375623410269024
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_13
+  - first:
+      213: 2993077805903296485
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_14
+  - first:
+      213: 2364408636420681576
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_15
+  - first:
+      213: 8773739898117944538
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_16
+  - first:
+      213: -8960931566784301095
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_17
+  - first:
+      213: -2771170124387742699
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_18
+  - first:
+      213: 7993588383899311564
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_19
+  - first:
+      213: -8181391381179444758
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_20
+  - first:
+      213: 6798835280674741048
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_21
+  - first:
+      213: 101766153828428816
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_22
+  - first:
+      213: 7196897177319434554
+    second: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7419bb3b189015000800000000000000
+      internalID: 22809925784408391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e803122bb463780800000000000000
+      internalID: -8703686001413812612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7eb7ac993aaaa010800000000000000
+      internalID: 1200959415065755261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41590f3f997ddf3e0800000000000000
+      internalID: -2018220001769515756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb4219e7e9253e30800000000000000
+      internalID: 4482535080141671366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1658f02af9fb7c0800000000000000
+      internalID: -4053345621216239184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 20
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16eb6d7fcf4c4bc0800000000000000
+      internalID: -3797572633199122918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766a9197737c52510800000000000000
+      internalID: 1523843090003633767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098d3c2371d7d93a0800000000000000
+      internalID: -6657027135594309488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa1e48711147fbd0800000000000000
+      internalID: -2596535116867167572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d6a5f8c9a12bb30800000000000000
+      internalID: 4301529853814533526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd7932320d856f90800000000000000
+      internalID: -6961002608459153935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 20
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2b5eb49a6ce45d0800000000000000
+      internalID: -3076303065022352649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b396c19d4b72d70800000000000000
+      internalID: 9018375623410269024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7b8fd086c898920800000000000000
+      internalID: 2993077805903296485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f68bda02110d020800000000000000
+      internalID: 2364408636420681576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4fdfab3f592c970800000000000000
+      internalID: 8773739898117944538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7bc31973064a380800000000000000
+      internalID: -8960931566784301095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c81b34473da89d0800000000000000
+      internalID: -2771170124387742699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdd107884eeeee60800000000000000
+      internalID: 7993588383899311564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae15b5cb2ebd57e80800000000000000
+      internalID: -8181391381179444758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bd20f7aa05a5e50800000000000000
+      internalID: 6798835280674741048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ce91917cb896100800000000000000
+      internalID: 101766153828428816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Super_Smash_Bros_for_Nintendo_3DS_-_Bonus_Fruit_23
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39e22b1ad380e360800000000000000
+      internalID: 7196897177319434554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
