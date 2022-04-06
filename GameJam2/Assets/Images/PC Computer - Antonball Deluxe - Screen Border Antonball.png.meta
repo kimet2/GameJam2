@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 4d0d25b2f71faaa4483002f8909bedd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7260240722451185777
+    second: PC Computer - Antonball Deluxe - Screen Border Antonball_0
+  - first:
+      213: -6450940143897201207
+    second: PC Computer - Antonball Deluxe - Screen Border Antonball_1
+  - first:
+      213: 6076456350043407925
+    second: PC Computer - Antonball Deluxe - Screen Border Antonball_2
+  - first:
+      213: -2584240804897524504
+    second: PC Computer - Antonball Deluxe - Screen Border Antonball_3
+  - first:
+      213: -1398824817928793701
+    second: PC Computer - Antonball Deluxe - Screen Border Antonball_4
+  - first:
+      213: 1620119839722829898
+    second: PC Computer - Antonball Deluxe - Screen Border Antonball_5
+  - first:
+      213: 3087037660846150331
+    second: PC Computer - Antonball Deluxe - Screen Border Antonball_6
+  - first:
+      213: 2343167259332302721
+    second: PC Computer - Antonball Deluxe - Screen Border Antonball_7
+  - first:
+      213: 501140320474075727
+    second: PC Computer - Antonball Deluxe - Screen Border Antonball_8
+  - first:
+      213: 1768554984185494296
+    second: PC Computer - Antonball Deluxe - Screen Border Antonball_9
+  - first:
+      213: 3265704638400435730
+    second: PC Computer - Antonball Deluxe - Screen Border Antonball_10
+  - first:
+      213: 7574841780915375201
+    second: PC Computer - Antonball Deluxe - Screen Border Antonball_11
+  - first:
+      213: -5535033471311056666
+    second: PC Computer - Antonball Deluxe - Screen Border Antonball_12
+  - first:
+      213: 952888026917386304
+    second: PC Computer - Antonball Deluxe - Screen Border Antonball_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Antonball Deluxe - Screen Border Antonball_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 748
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170478d787e81c460800000000000000
+      internalID: 7260240722451185777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Antonball Deluxe - Screen Border Antonball_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 748
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c533bf1e18a976a0800000000000000
+      internalID: -6450940143897201207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Antonball Deluxe - Screen Border Antonball_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 600
+        width: 257
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536018d1bd8e35450800000000000000
+      internalID: 6076456350043407925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Antonball Deluxe - Screen Border Antonball_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 635
+        width: 251
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4730a0eaee22cd0800000000000000
+      internalID: -2584240804897524504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Antonball Deluxe - Screen Border Antonball_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 586
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b919a584d30669ce0800000000000000
+      internalID: -1398824817928793701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Antonball Deluxe - Screen Border Antonball_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 586
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48fd341962db7610800000000000000
+      internalID: 1620119839722829898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Antonball Deluxe - Screen Border Antonball_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 440
+        width: 257
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2dcfe856c57da20800000000000000
+      internalID: 3087037660846150331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Antonball Deluxe - Screen Border Antonball_7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 440
+        width: 257
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187d3dd253a948020800000000000000
+      internalID: 2343167259332302721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Antonball Deluxe - Screen Border Antonball_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 294
+        width: 257
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f429b70677864f600800000000000000
+      internalID: 501140320474075727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Antonball Deluxe - Screen Border Antonball_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 294
+        width: 257
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b7f1e436b2b8810800000000000000
+      internalID: 1768554984185494296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Antonball Deluxe - Screen Border Antonball_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 148
+        width: 257
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2161431f01d125d20800000000000000
+      internalID: 3265704638400435730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Antonball Deluxe - Screen Border Antonball_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 148
+        width: 257
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c8f3d677e3f1960800000000000000
+      internalID: 7574841780915375201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Antonball Deluxe - Screen Border Antonball_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 257
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e07b9a326c9f23b0800000000000000
+      internalID: -5535033471311056666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Antonball Deluxe - Screen Border Antonball_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2
+        width: 257
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0483223ac96593d00800000000000000
+      internalID: 952888026917386304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

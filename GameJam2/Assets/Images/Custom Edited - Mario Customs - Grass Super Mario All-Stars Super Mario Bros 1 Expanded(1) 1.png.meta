@@ -1,0 +1,3852 @@
+fileFormatVersion: 2
+guid: 6aadf2d2f102d8043b1547570eb98fd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8873438380477282615
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_0
+  - first:
+      213: 1710407960482583090
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_1
+  - first:
+      213: -2398811255263186650
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_2
+  - first:
+      213: 779425161548630437
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_3
+  - first:
+      213: -4929571206407065378
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_4
+  - first:
+      213: 5485841183635458740
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_5
+  - first:
+      213: 3081823809885887671
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_6
+  - first:
+      213: -5757879622219164553
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_7
+  - first:
+      213: -5704643882155872726
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_8
+  - first:
+      213: 8585878270657939064
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_9
+  - first:
+      213: 927810718995842410
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_10
+  - first:
+      213: -7257394905661798369
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_11
+  - first:
+      213: -2317323452043849224
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_12
+  - first:
+      213: 546294296805254705
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_13
+  - first:
+      213: 2401739427807298059
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_14
+  - first:
+      213: 3432810138363951911
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_15
+  - first:
+      213: -2290416850791210565
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_16
+  - first:
+      213: -2209048569720846020
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_17
+  - first:
+      213: 423462059141073934
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_18
+  - first:
+      213: 6465006494112383710
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_19
+  - first:
+      213: 6755892821562090579
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_20
+  - first:
+      213: -4304687350782101683
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_21
+  - first:
+      213: -8102056632050332722
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_22
+  - first:
+      213: 3320746602154507059
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_23
+  - first:
+      213: 5082270752284770219
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_24
+  - first:
+      213: 1325511753364169512
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_25
+  - first:
+      213: -5634172671007611297
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_26
+  - first:
+      213: -1394699394175436237
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_27
+  - first:
+      213: -8159174982381160117
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_28
+  - first:
+      213: 537542889595688627
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_29
+  - first:
+      213: -5156996932839090632
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_30
+  - first:
+      213: -7932042888512472378
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_31
+  - first:
+      213: 1004312387783769374
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_32
+  - first:
+      213: 3245524070544324417
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_33
+  - first:
+      213: -6590992182786075700
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_34
+  - first:
+      213: 1919742867332629570
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_35
+  - first:
+      213: 2058661412267800639
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_36
+  - first:
+      213: 5702234696093201972
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_37
+  - first:
+      213: -1802605398142255188
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_38
+  - first:
+      213: 2595065161831993830
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_39
+  - first:
+      213: 6568568686031500601
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_40
+  - first:
+      213: -884945594182603154
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_41
+  - first:
+      213: -8697221004825657220
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_42
+  - first:
+      213: 1348730495166857312
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_43
+  - first:
+      213: -4522119345915149414
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_44
+  - first:
+      213: -5984836933357392897
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_45
+  - first:
+      213: 4250795837851883563
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_46
+  - first:
+      213: -1061227695609831675
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_47
+  - first:
+      213: 5338735148637308049
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_48
+  - first:
+      213: -3091748670132577142
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_49
+  - first:
+      213: -8381798082640838657
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_50
+  - first:
+      213: 2515300541555640848
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_51
+  - first:
+      213: -7870964224298266400
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_52
+  - first:
+      213: -2477746712177596374
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_53
+  - first:
+      213: 2071204834022956403
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_54
+  - first:
+      213: 7979522104984520818
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_55
+  - first:
+      213: -2496445133755177581
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_56
+  - first:
+      213: 4133492745229134523
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_57
+  - first:
+      213: 3018986678302186048
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_58
+  - first:
+      213: -4352694775187473939
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_59
+  - first:
+      213: -8206590125112113809
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_60
+  - first:
+      213: -3580422627228544711
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_61
+  - first:
+      213: -6246856606046694571
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_62
+  - first:
+      213: -6106868580714073774
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_63
+  - first:
+      213: 9025631042186548273
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_64
+  - first:
+      213: 7395154027924327061
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_65
+  - first:
+      213: -839860185960240768
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_66
+  - first:
+      213: -2701511594968664887
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_67
+  - first:
+      213: -5123350493218696377
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_68
+  - first:
+      213: 8142167732895708208
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_69
+  - first:
+      213: -4428553674767549423
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_70
+  - first:
+      213: 8897782298304808524
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_71
+  - first:
+      213: 7412974512495506598
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_72
+  - first:
+      213: -2818898308123342438
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_73
+  - first:
+      213: 6202971573182377912
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_74
+  - first:
+      213: 6611642244595097615
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_75
+  - first:
+      213: 1167544294704922685
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_76
+  - first:
+      213: 8807144237794668863
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_77
+  - first:
+      213: -4900680373062350468
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_78
+  - first:
+      213: -8760456381123411303
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_79
+  - first:
+      213: -6299783987793093776
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_80
+  - first:
+      213: -3278431400602001620
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_81
+  - first:
+      213: -4517372441346413672
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_82
+  - first:
+      213: -5688420010667329179
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_83
+  - first:
+      213: 9173698973413833005
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_84
+  - first:
+      213: 2003004177651523489
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_85
+  - first:
+      213: 2748223564790105433
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_86
+  - first:
+      213: -3758780276434002916
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_87
+  - first:
+      213: -1816176101202631907
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_88
+  - first:
+      213: -4579426051957536430
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_89
+  - first:
+      213: -807575037619014880
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_90
+  - first:
+      213: 3047020963422883765
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_91
+  - first:
+      213: 9041032754959245344
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_92
+  - first:
+      213: 3277872709508272744
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_93
+  - first:
+      213: -250705768049367973
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_94
+  - first:
+      213: 3137509950637275522
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_95
+  - first:
+      213: 8897728765426434410
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_96
+  - first:
+      213: -5403137136180464247
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_97
+  - first:
+      213: -8023107526097343830
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_98
+  - first:
+      213: 4374864843302739647
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_99
+  - first:
+      213: 4315061226610966581
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_100
+  - first:
+      213: 8091164219678036873
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_101
+  - first:
+      213: 4947046305450409968
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_102
+  - first:
+      213: 2630692285265345911
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_103
+  - first:
+      213: -6746136830826576089
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_104
+  - first:
+      213: -1087413363655362360
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_105
+  - first:
+      213: -7816882960914501917
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_106
+  - first:
+      213: 2677870598578796361
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_107
+  - first:
+      213: 766006261829463410
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_108
+  - first:
+      213: -3188430958262859614
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_109
+  - first:
+      213: -8644441483050068318
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_110
+  - first:
+      213: -5794318493255460446
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_111
+  - first:
+      213: -5429258238301185226
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_112
+  - first:
+      213: 8907717470144874872
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_113
+  - first:
+      213: -562722855300554809
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_114
+  - first:
+      213: -1879161226394873605
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_115
+  - first:
+      213: -1187353313782309962
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_116
+  - first:
+      213: 8310901794777501329
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_117
+  - first:
+      213: -5286083486373904567
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_118
+  - first:
+      213: -8287158004614244437
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_119
+  - first:
+      213: 8962896983429402275
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_120
+  - first:
+      213: 417692863172658044
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_121
+  - first:
+      213: 7440058211578903598
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_122
+  - first:
+      213: -4656157445905877562
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_123
+  - first:
+      213: 6952983014909591961
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_124
+  - first:
+      213: 2952855938712342836
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_125
+  - first:
+      213: -2883161422605864173
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_126
+  - first:
+      213: 4227268988167274803
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_127
+  - first:
+      213: 8785733062383216601
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_128
+  - first:
+      213: -6495208034227220080
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_129
+  - first:
+      213: 3559531372760253777
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_130
+  - first:
+      213: -5672319314588503533
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_131
+  - first:
+      213: 1641515901314916302
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_132
+  - first:
+      213: -8492964482835490335
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_133
+  - first:
+      213: 3410283656255232847
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_134
+  - first:
+      213: 1546831706434479537
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_135
+  - first:
+      213: -3651042284382911018
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_136
+  - first:
+      213: 2793935650518470376
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_137
+  - first:
+      213: -5240516140474587323
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_138
+  - first:
+      213: -1148937544567522401
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_139
+  - first:
+      213: 8762109816240018854
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_140
+  - first:
+      213: 5326234254312968705
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_141
+  - first:
+      213: -2520259739279130143
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_142
+  - first:
+      213: -5787165637490405987
+    second: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+      Bros 1 Expanded(1) 1_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7397aac8139c42b70800000000000000
+      internalID: 8873438380477282615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23290995af69cb710800000000000000
+      internalID: 1710407960482583090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62134de6fd5b5bed0800000000000000
+      internalID: -2398811255263186650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a98b1b0e0311da00800000000000000
+      internalID: 779425161548630437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0fc131b15a69bb0800000000000000
+      internalID: -4929571206407065378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baccc4cd7f912c40800000000000000
+      internalID: 5485841183635458740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcd6984d66d4ca20800000000000000
+      internalID: 3081823809885887671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7749a2a7df6e710b0800000000000000
+      internalID: -5757879622219164553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 154
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e6ef91d9805d0b0800000000000000
+      internalID: -5704643882155872726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876cf471cca272770800000000000000
+      internalID: 8585878270657939064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a650c84eeee30ec00800000000000000
+      internalID: 927810718995842410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 154
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f188c4dd8cd884b90800000000000000
+      internalID: -7257394905661798369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f19e3b199637dfd0800000000000000
+      internalID: -2317323452043849224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13626efb4c3d49700800000000000000
+      internalID: 546294296805254705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02018dd841b45120800000000000000
+      internalID: 2401739427807298059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 137
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bfa8e02aac3af20800000000000000
+      internalID: 3432810138363951911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb16505620ec630e0800000000000000
+      internalID: -2290416850791210565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 137
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c394436a702e751e0800000000000000
+      internalID: -2209048569720846020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 137
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c85facf7070e500800000000000000
+      internalID: 423462059141073934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed28920472158b950800000000000000
+      internalID: 6465006494112383710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354e1d91ab0c1cd50800000000000000
+      internalID: 6755892821562090579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47f38369ada244c0800000000000000
+      internalID: -4304687350782101683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbca807b66bf8f80800000000000000
+      internalID: -8102056632050332722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b318ac079a51e20800000000000000
+      internalID: 3320746602154507059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_24
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf7a4a725ad78640800000000000000
+      internalID: 5082270752284770219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82360e4bae9256210800000000000000
+      internalID: 1325511753364169512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_26
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56a06d8ec56fc1b0800000000000000
+      internalID: -5634172671007611297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 137
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a78b95a4805ace0800000000000000
+      internalID: -1394699394175436237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_28
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49baea2599c4ce80800000000000000
+      internalID: -8159174982381160117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_29
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 137
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b653e9f86cb57700800000000000000
+      internalID: 537542889595688627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836d85ecc9aae68b0800000000000000
+      internalID: -5156996932839090632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cafc07c409bbe190800000000000000
+      internalID: -7932042888512472378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 120
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d306dabc800fd00800000000000000
+      internalID: 1004312387783769374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14736c652fa6a0d20800000000000000
+      internalID: 3245524070544324417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3d8a3c7871884a0800000000000000
+      internalID: -6590992182786075700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_35
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244837377fb44aa10800000000000000
+      internalID: 1919742867332629570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38b60fa5a5d19c10800000000000000
+      internalID: 2058661412267800639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_37
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436fa8e8e38622f40800000000000000
+      internalID: 5702234696093201972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf7785e0fbdbf6e0800000000000000
+      internalID: -1802605398142255188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1dcf3f306830420800000000000000
+      internalID: 2595065161831993830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_40
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93579ad0b6e382b50800000000000000
+      internalID: 6568568686031500601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_41
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ee235bbaa08b3f0800000000000000
+      internalID: -884945594182603154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c700d4273934d4780800000000000000
+      internalID: -8697221004825657220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060482e4d37a7b210800000000000000
+      internalID: 1348730495166857312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a934ec20a643e31c0800000000000000
+      internalID: -4522119345915149414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb2894a48691fca0800000000000000
+      internalID: -5984836933357392897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_46
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28ded7fa4cddfa30800000000000000
+      internalID: 4250795837851883563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_47
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f9e519803c541f0800000000000000
+      internalID: -1061227695609831675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1944b64f45ff61a40800000000000000
+      internalID: 5338735148637308049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c16fd17f6e715d0800000000000000
+      internalID: -3091748670132577142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 111
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff74217d0fddab80800000000000000
+      internalID: -8381798082640838657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a85c2148428e220800000000000000
+      internalID: 2515300541555640848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_52
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0d4ea7db7b4c290800000000000000
+      internalID: -7870964224298266400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_53
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 111
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2823413e764d9dd0800000000000000
+      internalID: -2477746712177596374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d9205a2d56ebc10800000000000000
+      internalID: 2071204834022956403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278caf0c315fcbe60800000000000000
+      internalID: 7979522104984520818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3952549a068da5dd0800000000000000
+      internalID: -2496445133755177581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_57
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 86
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba690960cd1d5930800000000000000
+      internalID: 4133492745229134523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_58
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a96dd736895e920800000000000000
+      internalID: 3018986678302186048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_59
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9704dd92f1893c0800000000000000
+      internalID: -4352694775187473939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_60
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65c677f2c55c1e80800000000000000
+      internalID: -8206590125112113809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93195462798cf4ec0800000000000000
+      internalID: -3580422627228544711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553d8c99305be49a0800000000000000
+      internalID: -6246856606046694571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_63
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2513b84a16b004ba0800000000000000
+      internalID: -6106868580714073774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_64
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 86
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134944fec9b714d70800000000000000
+      internalID: 9025631042186548273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_65
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 86
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a8abd386dd0a660800000000000000
+      internalID: 7395154027924327061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 69
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089a8d25c973854f0800000000000000
+      internalID: -839860185960240768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_67
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 69
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c43b41848d428ad0800000000000000
+      internalID: -2701511594968664887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_68
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 69
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74390effed336e8b0800000000000000
+      internalID: -5123350493218696377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_69
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03475ecf96acef070800000000000000
+      internalID: 8142167732895708208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_70
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cbab275ed9a82c0800000000000000
+      internalID: -4428553674767549423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_71
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46873b9bd54b7b70800000000000000
+      internalID: 8897782298304808524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_72
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4b1522b0d20e660800000000000000
+      internalID: 7412974512495506598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_73
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99cb568ce241e8d0800000000000000
+      internalID: -2818898308123342438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_74
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfa163f7c1651650800000000000000
+      internalID: 6202971573182377912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_75
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00ae0b679541cb50800000000000000
+      internalID: 6611642244595097615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_76
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 69
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30cb61a953f33010800000000000000
+      internalID: 1167544294704922685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_77
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 69
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f313163a503493a70800000000000000
+      internalID: 8807144237794668863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79c3e56a294dfbb0800000000000000
+      internalID: -4900680373062350468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_79
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992c5d4165b9c6680800000000000000
+      internalID: -8760456381123411303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_80
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b16ed37dba298a0800000000000000
+      internalID: -6299783987793093776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_81
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f91a2d20ca082d0800000000000000
+      internalID: -3278431400602001620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_82
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b686bd2b11f41c0800000000000000
+      internalID: -4517372441346413672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_83
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56933fa832cae01b0800000000000000
+      internalID: -5688420010667329179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_84
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2972baac968f4f70800000000000000
+      internalID: 9173698973413833005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_85
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 54
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afda8cefa91ccb10800000000000000
+      internalID: 2003004177651523489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_86
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 54
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9550cae75c6a32620800000000000000
+      internalID: 2748223564790105433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_87
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 54
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c1862e04126dbc0800000000000000
+      internalID: -3758780276434002916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_88
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 54
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13634e5575abc6e0800000000000000
+      internalID: -1816176101202631907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_89
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 54
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259c6e1c44c9270c0800000000000000
+      internalID: -4579426051957536430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023fe3138caeac4f0800000000000000
+      internalID: -807575037619014880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_91
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf4df32c61394a20800000000000000
+      internalID: 3047020963422883765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_92
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0206402a363387d70800000000000000
+      internalID: 9041032754959245344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_93
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8621035ccd75d7d20800000000000000
+      internalID: 3277872709508272744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_94
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54a648ae60558cf0800000000000000
+      internalID: -250705768049367973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_95
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289fcf64dacaa8b20800000000000000
+      internalID: 3137509950637275522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_96
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6184038b251b7b70800000000000000
+      internalID: 8897728765426434410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_97
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 41
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985fd35d6633405b0800000000000000
+      internalID: -5403137136180464247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_98
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 41
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa6438963238a090800000000000000
+      internalID: -8023107526097343830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_99
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 41
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe976d5564a6bc30800000000000000
+      internalID: 4374864843302739647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_100
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 41
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530453cc25d22eb30800000000000000
+      internalID: 4315061226610966581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_101
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 41
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983924d2df6994070800000000000000
+      internalID: 8091164219678036873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_102
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 41
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffb7cb776077a440800000000000000
+      internalID: 4947046305450409968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_103
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 41
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77df99802b8128420800000000000000
+      internalID: 2630692285265345911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_104
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 41
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72707608b48e062a0800000000000000
+      internalID: -6746136830826576089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_105
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 41
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c83f4f9e4bb8e0f0800000000000000
+      internalID: -1087413363655362360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_106
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 41
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee23e7dc5ad48390800000000000000
+      internalID: -7816882960914501917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_107
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 41
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94770c61f15b92520800000000000000
+      internalID: 2677870598578796361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_108
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 41
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27de11cf2a661aa00800000000000000
+      internalID: 766006261829463410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_109
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 41
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a842edbfea60c3d0800000000000000
+      internalID: -3188430958262859614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_110
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a656297546c80880800000000000000
+      internalID: -8644441483050068318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_111
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9180ea702769fa0800000000000000
+      internalID: -5794318493255460446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_112
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bd130d56667a4b0800000000000000
+      internalID: -5429258238301185226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_113
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879c68f08d19e9b70800000000000000
+      internalID: 8907717470144874872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_114
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf11d66b8ec038f0800000000000000
+      internalID: -562722855300554809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_115
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0db0122d0ebe5e0800000000000000
+      internalID: -1879161226394873605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_116
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb5f15b37ca58fe0800000000000000
+      internalID: -1187353313782309962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_117
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 28
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e8ed83621465370800000000000000
+      internalID: 8310901794777501329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_118
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 28
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fff95731f04a6b0800000000000000
+      internalID: -5286083486373904567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_119
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 28
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7de69b3b91efc80800000000000000
+      internalID: -8287158004614244437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_120
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 28
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aecab7a15b926c70800000000000000
+      internalID: 8962896983429402275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_121
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 28
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c734f9e2271fbc500800000000000000
+      internalID: 417692863172658044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_122
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 28
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c73693685604760800000000000000
+      internalID: 7440058211578903598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_123
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 28
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c57d7ae871026fb0800000000000000
+      internalID: -4656157445905877562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_124
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 28
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991c20da635fd7060800000000000000
+      internalID: 6952983014909591961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_125
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 28
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4311ad3d4d6aaf820800000000000000
+      internalID: 2952855938712342836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_126
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 28
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313b77736f3fcf7d0800000000000000
+      internalID: -2883161422605864173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_127
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3314cb96fb64aaa30800000000000000
+      internalID: 4227268988167274803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_128
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7a1c2eba13de970800000000000000
+      internalID: 8785733062383216601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_129
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0919f99b4b26cd5a0800000000000000
+      internalID: -6495208034227220080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_130
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155cb30aceef56130800000000000000
+      internalID: 3559531372760253777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_131
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 15
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3127d59f2afd741b0800000000000000
+      internalID: -5672319314588503533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_132
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 15
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfd70fd306d7c610800000000000000
+      internalID: 1641515901314916302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_133
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 15
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9d49eeccde22a80800000000000000
+      internalID: -8492964482835490335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_134
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 15
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bd96abae2c35f20800000000000000
+      internalID: 3410283656255232847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_135
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 15
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5a655dd33777510800000000000000
+      internalID: 1546831706434479537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_136
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 15
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d50d6be264e45dc0800000000000000
+      internalID: -3651042284382911018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_137
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 15
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee0476dbad06c620800000000000000
+      internalID: 2793935650518470376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_138
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 15
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547af4fe552f547b0800000000000000
+      internalID: -5240516140474587323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_139
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 15
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b71faf3672e00f0800000000000000
+      internalID: -1148937544567522401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_140
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 15
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a513f74474499970800000000000000
+      internalID: 8762109816240018854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_141
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 15
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10297dea5d59ae940800000000000000
+      internalID: 5326234254312968705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_142
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 15
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e18c8abe1d360dd0800000000000000
+      internalID: -2520259739279130143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Grass Super Mario All-Stars Super Mario
+        Bros 1 Expanded(1) 1_143
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 15
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d8901b38bdfafa0800000000000000
+      internalID: -5787165637490405987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
