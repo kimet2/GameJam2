@@ -37,13 +37,16 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Fonts\Script\scriptTexttest.cs" />
-     <Compile Include="Assets\Scripts\Second Game\timer.cs" />
+     <Compile Include="Assets\Scripts\Third Game Script\ButtonDelay.cs" />
+     <Compile Include="Assets\Scripts\Second Game\PlayerController.cs" />
      <Compile Include="Assets\Scripts\Third Game Script\CameraMovement.cs" />
      <Compile Include="Assets\Scripts\Third Game Script\LoopingBackground.cs" />
      <Compile Include="Assets\Scripts\Third Game Script\AnimatedSprite.cs" />
+     <Compile Include="Assets\Scripts\Third Game Script\Obstacle.cs" />
      <Compile Include="Assets\Scripts\Third Game Script\SpawnEnemies.cs" />
      <Compile Include="Assets\Scripts\Third Game Script\Player.cs" />
      <Compile Include="Assets\Scripts\MenuEvents.cs" />
+     <Compile Include="Assets\Scripts\Second Game\SpawnFruits.cs" />
      <None Include="Assets\Fonts\Documentation\JazzCreateAltKeys_BubbleFont.txt" />
      <None Include="Assets\Fonts\Documentation\JazzCreateBubble_VersionHistory_1.1.txt" />
     <Reference Include="UnityEngine">
