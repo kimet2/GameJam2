@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Border
+  - fruit
   layers:
   - Default
   - TransparentFX
@@ -12,9 +13,9 @@ TagManager:
   - 
   - Water
   - UI
-  - Black
-  - Background
-  - Player
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -42,12 +43,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Black
-    uniqueID: 2732907205
-    locked: 0
-  - name: Background
-    uniqueID: 4064667043
-    locked: 0
   - name: Player
-    uniqueID: 4053864421
+    uniqueID: 1713968823
     locked: 0
