@@ -10,3 +10,4 @@ public class MenuEvents : MonoBehaviour
         SceneManager.LoadScene(index);
     }
 }
+
