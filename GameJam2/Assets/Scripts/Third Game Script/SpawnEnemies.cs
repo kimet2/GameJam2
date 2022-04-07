@@ -10,13 +10,18 @@ public class SpawnEnemies : MonoBehaviour
     public float maxY;
     public float minY;
     public float timeBetweenSpawn;
+    public float MintimeBetweenSpawn;
     private float spawnTime;
 
-    void Update()
-    {
+    void Update()      
+    {      
         if (Time.time > spawnTime)
         {
             Spawn();
+            if (timeBetweenSpawn>MintimeBetweenSpawn) 
+            {
+                timeBetweenSpawn -= 0.1f * Time.deltaTime;
+            }
             spawnTime = Time.time + timeBetweenSpawn;
         }
         
