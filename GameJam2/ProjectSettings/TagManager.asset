@@ -5,7 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Border
-  - fruit
+  - Tronco
   layers:
   - Default
   - TransparentFX
@@ -44,7 +44,10 @@ TagManager:
     uniqueID: 4113076221
     locked: 0
   - name: Player
-    uniqueID: 1713968823
+    uniqueID: 37954053
+    locked: 0
+  - name: Tronco
+    uniqueID: 998470155
     locked: 0
   - name: Default
     uniqueID: 0
