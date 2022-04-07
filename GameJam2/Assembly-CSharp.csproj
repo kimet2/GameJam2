@@ -46,9 +46,10 @@
      <Compile Include="Assets\Scripts\Third Game Script\Obstacle.cs" />
      <Compile Include="Assets\Scripts\Third Game Script\Coin.cs" />
      <Compile Include="Assets\Scripts\Third Game Script\SpawnEnemies.cs" />
-     <Compile Include="Assets\Scripts\Game1\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\Game1\PlayerController1.cs" />
      <Compile Include="Assets\Scripts\Third Game Script\Player.cs" />
      <Compile Include="Assets\Scripts\MenuEvents.cs" />
+     <Compile Include="Assets\Scripts\Game1\Enemy.cs" />
      <None Include="Assets\Fonts\Documentation\JazzCreateAltKeys_BubbleFont.txt" />
      <None Include="Assets\Fonts\Documentation\JazzCreateBubble_VersionHistory_1.1.txt" />
     <Reference Include="UnityEngine">
