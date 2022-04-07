@@ -5,7 +5,7 @@ using System;
 
 public class Player : MonoBehaviour
 {
-    //public static Action<string> PlayerCollectsCoin = delegate { };
+    public static Action<string> PlayerCollectsCoin = delegate { };
 
     private Rigidbody2D rb;
     private float dirX, dirY, moveSpeed;
@@ -46,7 +46,7 @@ public class Player : MonoBehaviour
             if (Input.GetKey(KeyCode.L))
             {
                 dirX = moveSpeed;
-            } */
+            }*/
         }        
         else if (name == "PlayerTwo" && !Input.anyKey)
         {
@@ -58,14 +58,15 @@ public class Player : MonoBehaviour
     private void FixedUpdate()
     {
         rb.velocity = new Vector2(dirX, dirY);
-    }
+    }   
 
-    /* private void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.GetComponent<Coin>())
         {
             PlayerCollectsCoin(name);
             Destroy(collision.gameObject);
+
         }
-    } */
+    } 
 }

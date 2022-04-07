@@ -5,16 +5,17 @@ TagManager:
   serializedVersion: 2
   tags:
   - Border
+  - Tronco
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Star
   - Water
   - UI
-  - Black
-  - Background
-  - Player
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -42,12 +43,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Black
-    uniqueID: 2732907205
-    locked: 0
-  - name: Background
-    uniqueID: 4064667043
-    locked: 0
   - name: Player
-    uniqueID: 4053864421
+    uniqueID: 37954053
+    locked: 0
+  - name: Tronco
+    uniqueID: 998470155
     locked: 0
