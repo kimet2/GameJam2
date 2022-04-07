@@ -57,6 +57,7 @@
      <Compile Include="Assets\Scripts\Third Game Script\Obstacle.cs" />
      <Compile Include="Assets\Scripts\Third Game Script\Coin.cs" />
      <Compile Include="Assets\Scripts\Third Game Script\SpawnEnemies.cs" />
+     <Compile Include="Assets\Scripts\Third Game Script\ScoreControl.cs" />
      <Compile Include="Assets\Scripts\Third Game Script\Player.cs" />
      <Compile Include="Assets\Scripts\MenuEvents.cs" />
      <None Include="Assets\Fonts\Documentation\JazzCreateAltKeys_BubbleFont.txt" />
